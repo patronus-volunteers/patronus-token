@@ -5,10 +5,10 @@ Name | Description
 Company name | Patronus Pte. Ltd.
 Registered address | 22 North Canal Road, #02-00, Singapore
 Website | https://patronus.org/
-Telegram chat | https://t.me/joinchat/CIC-ilGE1ZslTUhlNTHTIA
-White Paper | https://drive.google.com/file/d/1ezwsLPgyyY4bro_CK6xFLkjgmKACvxHR/
-Token Sale Agreement | https://drive.google.com/file/d/1wT_yMaQw7XiVVx-o0XRApz8ZccIORIJX/
-Token Economy Scheme | https://drive.google.com/file/d/1mKusX20dIRBxz0_Fa0bHi_-RVornu3y5/
+Telegram chat | https://t.me/joinchat/
+White Paper | https://drive.google.com/file/d/
+Token Sale Agreement | https://drive.google.com/file/d/
+Token Economy Scheme | https://drive.google.com/file/d/
 
 Name | Description
 ------------ | -------------
